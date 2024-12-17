@@ -1,5 +1,14 @@
 # Machine Learning Study 혼자 해보기
 
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/teddylee777/machine-learning)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/teddylee777/machine-learning)
+[![GitHub issues](https://img.shields.io/github/issues/teddylee777/machine-learning?color=%232da44e)](https://github.com/teddylee777/machine-learning/issues)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/teddylee777/machine-learning?color=%238250df)](https://github.com/teddylee777/machine-learning/pulls)
+
+</div>
+
 </div>
 <br />
 
@@ -12,7 +21,7 @@
   <tr>
     <td align="center"><a href="https://github.com/teddylee777"><img src="https://avatars.githubusercontent.com/u/10074379?s=400&u=ee37ac1a4bb730df9c80d1ac92311cbbf61c680e&v=4" width="100px;" alt=""/><br /><sub><b>Teddy Lee</b></sub></a><br /><a href="https://teddylee777.github.io/" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/HongJaeKwon"><img src="https://avatars.githubusercontent.com/u/44965354?s=400&v=4" width="100px;" alt=""/><br /><sub><b>HongJaeKwon</b></sub></a><br /><a href="https://github.com/HongJaeKwon" title="Code">🏠</a></td>
-    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://github.com/Kaintels" title="Code">🏠</a></td>
+    <td align="center"><a href="https://github.com/Kaintels"><img src="https://avatars.githubusercontent.com/u/38157496?s=460&u=701d6896714d3551c20e1f46c15079f8e6630784&v=4" width="100px;" alt=""/><br /><sub><b>Seungwoo Han</b></sub></a><br /><a href="https://kaintels.github.io/" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/lovedlim"><img src="https://avatars.githubusercontent.com/u/25129278?s=400&u=b0b5b71762434d2afc962add63ddb2a166d32dbe&v=4" width="100px;" alt=""/><br /><sub><b>Tae Heon Kim</b></sub></a><br /><a href="https://www.youtube.com/channel/UCs7pXreQXz30-ENLsnorqdA" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/stevekwon211"><img src="https://avatars.githubusercontent.com/u/61633137?s=400&u=fd514a668292884e640c15973976e0a0ec39fdbc&v=4" width="100px;" alt=""/><br /><sub><b>Steve Kwon</b></sub></a><br /><a href="https://velog.io/@kwonhl0211" title="Code">🏠</a></td>
     <td align="center"><a href="https://github.com/sw-song"><img src="https://avatars.githubusercontent.com/u/49427979?s=400&v=4" width="100px;" alt=""/><br /><sub><b>SW Song</b></sub></a><br /><a href="https://www.linkedin.com/in/seungwonsong/" title="Code">🏠</a></td>
@@ -62,7 +71,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [파이썬 강좌 코딩 기초 강의 Python | 김왼손의 왼손코딩](https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww&index=1)
 * [딥러닝을 위한 파이썬 - 신경식님](https://learnaday.kr/open-course/ZiYShf)
 * [NumPy(넘파이) 기본 - T아카데미](https://www.youtube.com/watch?v=zNrDbG4tNGo&list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
-* [한 방으로 끝내는 판다스(Pandas) - 테디노트](https://learnaday.kr/open-course/pandas)
+* [한 방으로 끝내는 판다스(Pandas) - 테디노트](https://www.udemy.com/course/pandas-i/)
+* [판다스(Pandas)노트 (무료전자책) - 테디노트](https://wikidocs.net/book/4639)
 * [Pandas 기본기 다지기 - T아카데미](https://www.youtube.com/watch?v=M_lKmt-wSvY&list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
 * [Pandas로 하는 시계열 데이터분석 - T아카데미](https://www.youtube.com/watch?v=oNLaw2Q8Irw&list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
 * [입문자를 위한 파이썬 기초 따라잡기 - 재즐보프](https://www.youtube.com/watch?v=BvJhYPQSDLI&list=PLnIaYcDMsScyhT18mwY71rV_aHdP-OhLd)
@@ -70,6 +80,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 **수학 (Mathmatics) & 통계 (Statistics)**
 
+* [선형대수학을 시각적으로 먼저 이해해야 하는 이유 - 3Blue1Brown 한국어](https://youtu.be/ic_hG2M2nG0?feature=shared)
+* [벡터란 무엇인가? | 선형대수학의 본질 - 3Blue1Brown 한국어](https://youtu.be/ArgTeYVuJUo?feature=shared)
 * [선형대수 기초 - 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Mathematical Monk Youtube(영문)](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   * 딥러닝에 관련된 수학을 굉장히 쉽게 풀어놓은 유튜브.
@@ -117,8 +129,13 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [논문으로 시작하는 딥러닝 - 최성준님](https://www.edwith.org/deeplearningchoi)
 * [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
   - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
+* [파이토치 - 빠른시작 따라하기! 한국 사용자 모임 공식문서 번역본 by 파이토치코리아 운영진 오늘코드todaycode](https://youtu.be/CVrT23QVfxA)
+  - 파이토치(PyTorch) 한국어 번역본을 활용하는 간단 튜토리얼. 약 30분짜리 영상으로 짧지만 친절한 설명!
+* [아마존 AWS부스트](http://www.awsboost.io/)
+  - 아마존에서 Zoom으로 진행한 머신러닝/딥러닝 교육. Sagemaker의 활용법도 소개되어 있다.
+  
 
-**국가 공인 자격증**
+**빅데이터 분석 기사**
 
 * [캐글로 함께하는 빅데이터 분석기사 - 김태헌님](https://www.kaggle.com/agileteam/bigdatacertificationkr)
   * 빅데이터 분석기사 실전 문제를 캐글에 꾸준히 업데이트 해주고 계시고, 캐글 노트북 커널과 강의를 함께 보실 수 있습니다.
@@ -127,29 +144,42 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 # 주제별 (By Subjects)
 
- - [수학 (Mathmatics)](#수학-mathmatics)
- - [통계 (Statistics)](#통계-statistics)
- - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
- - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
- - [최적화 & AutoML (Optimization-AutoML)](#최적화--AutoML-optimization--automl)
- - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
- - [액티브러닝 (Active Learning)](#액티브러닝-active-learning)
- - [연합학습 (Federated learning)](#연합학습-federated-learning)
- - [시각화 (Visualization)](#시각화-visualization)
- - [캐글 & 데이콘](#캐글--데이콘)
- - [블로그 (Blogs)](#블로그-blogs)
- - [깃헙 저장소 (GitHub)](#깃헙-저장소-github)
- - [웹사이트 (Web Sites)](#웹사이트-web-sites)
- - [위키독스 (Wiki Docs)](#위키독스-wiki-docs)
- - [유튜브 채널 (YouTube Channel)](#유튜브-채널-youtube-channel)
- - [논문 읽기 (YouTube)](#논문-읽기-youtube)
- - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
- - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
- - [라이브러리 (Library)](#라이브러리-library)
- - [오픈데이터](#오픈데이터)
- - [텐서플로우 자격증](#텐서플로우-자격증)
- - [빅데이터 분석기사](#빅데이터-분석기사)
- - [기타](#기타)
+- [Machine Learning Study 혼자 해보기](#machine-learning-study-혼자-해보기)
+  - [기여자 (Contributors) ✨](#기여자-contributors-)
+  - [지식공유 (Knowledge Sharings)](#지식공유-knowledge-sharings)
+  - [동영상 강의 묶음, 재생목록 (Video Lectures)](#동영상-강의-묶음-재생목록-video-lectures)
+- [주제별 (By Subjects)](#주제별-by-subjects)
+  - [수학 (Mathmatics)](#수학-mathmatics)
+  - [통계 (Statistics)](#통계-statistics)
+  - [머신러닝 (Machine Learning)](#머신러닝-machine-learning)
+  - [딥러닝 (Deep Learning)](#딥러닝-deep-learning)
+  - [최적화 \& AutoML (Optimization \& AutoML)](#최적화--automl-optimization--automl)
+  - [메타러닝 (Meta Learning)](#메타러닝-meta-learning)
+  - [액티브러닝 (Active Learning)](#액티브러닝-active-learning)
+  - [연합학습 (Federated Learning)](#연합학습-federated-learning)
+  - [증분학습 (Incremental Learning)](#증분학습-incremental-learning)
+  - [시각화 (Visualization)](#시각화-visualization)
+  - [LLM (Large Language Model)](#llm-large-language-model)
+  - [랭체인 (LangChain)](#랭체인-langchain)
+  - [ChatGPT](#chatgpt)
+  - [기타 (Others)](#기타-others)
+  - [캐글 \& 데이콘](#캐글--데이콘)
+    - [캐글이 처음이라면?](#캐글이-처음이라면)
+    - [강의 \& 강연](#강의--강연)
+    - [캐글 \& 데이콘 대회 분류](#캐글--데이콘-대회-분류)
+  - [블로그 (Blogs)](#블로그-blogs)
+  - [깃헙 저장소 (GitHub)](#깃헙-저장소-github)
+  - [웹사이트 (Web Sites)](#웹사이트-web-sites)
+  - [위키독스 (Wiki Docs)](#위키독스-wiki-docs)
+  - [유튜브 채널 (YouTube Channel)](#유튜브-채널-youtube-channel)
+  - [논문 읽기 (YouTube)](#논문-읽기-youtube)
+  - [데이터 사이언티스트 스토리 (Data Scientist Story)](#데이터-사이언티스트-스토리-data-scientist-story)
+  - [페이스북 그룹 (Facebook Groups)](#페이스북-그룹-facebook-groups)
+  - [라이브러리 (Library)](#라이브러리-library)
+  - [오픈데이터](#오픈데이터)
+  - [텐서플로우 자격증](#텐서플로우-자격증)
+  - [빅데이터 분석기사](#빅데이터-분석기사)
+  - [기타](#기타)
 
 
 ## 수학 (Mathmatics)
@@ -218,7 +248,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
   * [경사하강법 파이썬 코드로 구현 - 테디노트](https://youtu.be/KgH3ZWmMxLE)
   * [경사법 이해 - 바람님](https://www.youtube.com/watch?v=P4L3IntRwrc)
- 
+
 * **오차 역전파 (Back Propagation)**
   * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
   * [Stanford - CS231n - Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=4)
@@ -277,6 +307,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [RNN 기초 (순환신경망 - Vanilla RNN) - 허민석님](https://youtu.be/PahF2hZM6cs)
   * [LSTM 쉽게 이해하기 - 허민석님](https://youtu.be/bX6GLbpw-A4)
   * [(CS231n 한글설명) RNN, LSTM - 송교석님](https://youtu.be/2ngo9-YCxzY)
+  * [RNN & LSTM 설명 및 구현(pytorch) - Donghoon Note](https://dhpark1212.tistory.com/entry/RNN-LSTM-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84pytorch)
 
 * **생성적 적대 신경망 (Generative Adversarial Network)**
   * [1시간만에 GAN 완전 정복하기 - 네이버 D2](https://www.youtube.com/watch?v=odpjk7_tGY0)
@@ -294,11 +325,20 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [쉽게구현하는 강화학습(2강) - 팡요랩](https://www.youtube.com/watch?v=12pXaP8KPbE&list=PLpRS2w0xWHTdpMdpzuQf-w1QmCVrE2leJ)
   * [강화학습 입문하기(season 1) - T아카데미](https://www.youtube.com/watch?v=NrcePTbqNb4&list=PL9mhQYIlKEhfMzkhV1gsIU8cZLeEUAbLR)
   * [강화학습 입문하기(policy gradient) - T아카데미](https://www.youtube.com/watch?v=irxj7ThyASk&list=PL9mhQYIlKEhc-n4vu4cWChTaNMi0mwYn4)
+  * [강화학습 관련 노하우 - 강화학습 KR](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EA%B4%80%EB%A0%A8-%EB%85%B8%ED%95%98%EC%9A%B0)
+  * [강화학습 100제 - Koki Saitoh](https://koki0702.github.io/dezero-p100/)
+    * 일본어 강화학습 문제풀이 사이트. 채점 및 해설 제공. 그림 문제 외에는 번역하면서 풀 수 있을 정도
 
 * **컴퓨터 비전 (Computer Vision)**
+  * [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
+    * 대부분의 컴퓨터 비전의 내용이 담겨 있습니다.
+  * [OpenCV 강좌 - Daehee YUN Tech Blog](https://076923.github.io/posts/Python-opencv-1/)
+    * Python 강좌 뿐만 아니라 C# OpenCV 강좌도 제공됩니다.
   * [Object Detection(객체 탐지) - Deeplearning.ai](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
   * [Semantic Segmentation (의미론적 분할) - UNet 케라스 구현](https://github.com/zhixuhao/unet)
   * [Self-Driving Car (자율주행) - source code of all the projects of Udacity Self-Driving Car Engineer Nanodegree](https://github.com/ndrplz/self-driving-car)
+  * [객체탐지 소개 - 가짜연구소](https://pseudo-lab.github.io/Tutorial-Book/chapters/object-detection/Ch1-Object-Detection.html)
+
 
 * **자연어 처리 (Natural Language Processing)**
   * [딥러닝을 이용한 자연어 처리 - 조경현 교수님](https://www.edwith.org/deepnlp)
@@ -311,6 +351,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * [자연어 언어모델 "BERT"](https://www.youtube.com/watch?v=qlxrXX5uBoU&list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)
   * [자연어 처리 특강 - 텐초](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
     * 자연어 처리를 위한 딥러닝 알고리즘, 워드 임베딩(Word2Vec, TF-IDF), BERT, GPT
+  * [자연어처리 강의 기초부터 고급까지 - Ready-To-Use Tech](https://www.youtube.com/watch?v=Z201jwWo-xs&list=PLrLEKGJAgXxL-R9IqDH7HANWXRsS900tF)
+    * kiyoungkim1 님께서 공유해 주신 자연어처리 기초 부터 고급 강의
 
 * **음성인식 (Speech Recognition)** 
   * [딥러닝 기반 음성인식 기초 - T아카데미](https://www.youtube.com/watch?v=YiW7aOTZFQQ&list=PL9mhQYIlKEhdrYpsGk8X4qj3tQUuaDhrl)
@@ -349,11 +391,56 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * **이론**
   * [연합 학습(Federated Learning), 그리고 챌린지](https://medium.com/curg/%EC%97%B0%ED%95%A9-%ED%95%99%EC%8A%B5-federated-learning-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B1%8C%EB%A6%B0%EC%A7%80-b5c481bd94b7)
 
+## 증분학습 (Incremental Learning)
+* **이론**
+  * [Incremental / Continual learning의 거의 모든 것 (설명, 성능 측정 방식, 연구 흐름)](https://ffighting.tistory.com/112)
+
 ## 시각화 (Visualization)
 * **Bokeh**
   * [대화형 웹 시각화 Bokeh - 재즐보프](https://www.youtube.com/watch?v=XbfQNJrIXZc)
 
+## LLM (Large Language Model)
+* **AutoGPT**
+  * [AutoGPT 설치 및 실행 방법 - 테디노트](https://teddylee777.github.io/machine-learning/autogpt/)
+    * 사용자가 설정한 목표(Goal)를 자동으로 달성 하는 GPT.
+* **FineTuning**
+  * [KoChatGPT-replica(RLHF) 프로젝트](https://github.com/airobotlab/KoChatGPT)
+    * ChatGPT-replica 실습 깃헙. GPT fine-tuning, 강화학습(PPO), RLHF, ChatGPT 데이터셋 구축에 대하여 다룹니다. 다양한 Colab 예제가 수록되어 있습니다.
+  * [KoAlphaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)](https://github.com/Beomi/KoAlpaca)
+    * Stanford Alpaca 모델을 학습한 방식과 동일한 방식으로 학습을 진행한, 한국어를 이해하는 Alpaca 모델. Lora Peft 를 활용한 파인튜닝 방법 등이 수록되어 있고, 한국어 데이터셋에 대한 소개도 되어 있습니다.
+
+## 랭체인 (LangChain)
+* **랭체인 튜토리얼(블로그)**
+  * [랭체인(langchain)의 OpenAI GPT 모델(ChatOpenAI) 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-01/)
+  * [랭체인(langchain) + 허깅페이스(HuggingFace) 모델 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-02/)
+  * [랭체인(langchain) + 챗(chat) - ConversationChain, 템플릿 사용법](https://teddylee777.github.io/langchain/langchain-tutorial-03/)
+  * [랭체인(langchain) + 정형데이터(CSV, Excel) - ChatGPT 기반 데이터분석](https://teddylee777.github.io/langchain/langchain-tutorial-04/)
+  * [랭체인(langchain) + 웹사이트 크롤링 - 웹사이트 문서 요약](https://teddylee777.github.io/langchain/langchain-tutorial-05/)
+  * [랭체인(langchain) + 웹사이트 정보 추출 - 스키마 활용법](https://teddylee777.github.io/langchain/langchain-tutorial-06/)
+  * [랭체인(langchain) + PDF 문서요약, Map-Reduce](https://teddylee777.github.io/langchain/langchain-tutorial-07/)
+  * [랭체인(langchain) + PDF 기반 질의응답(Question-Answering)](https://teddylee777.github.io/langchain/langchain-tutorial-08/)
+* **유튜브 튜토리얼**
+  * [랭체인 Featured YouTube 튜토리얼](https://python.langchain.com/docs/additional_resources/tutorials)
+    * 전부 외국인의 튜토리얼 이지만, 쉬운 설명과 따라하기 쉬운 예제들이 많음. 랭체인 공식 홈페이지에서 피처링한 튜토리얼 페이지.
+
+## ChatGPT
+
+**OpenAI**
+
+* [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
+  * OpenAI API 공식 도큐먼트
+* [OpenAI Cookbook](https://cookbook.openai.com/)
+  * OpenAI Python API 레시피 쿡북. 상황에 맞는 코드 및 튜토리얼 정리가 잘 되어 있는 곳.
+
+**전자책**
+
+* [생성 AI 활용기](https://wikidocs.net/book/9451) - 전뇌해커
+  * 생성 AI를 활요한 다양한 예제 수록
+* [이미지 생성 AI 활용](https://wikidocs.net/book/12852) - 전뇌해커
+  * 이미지, 그림 그리기 등 생성 AI 를 활용한 이미지 생성/활용 내용 수록
+
 ## 기타 (Others)
+
 * **파이프라인**
   * [머신러닝 시스템 디자인 패턴 - mecari](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 * **Azure 머신러닝**
@@ -419,6 +506,11 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * `ggplot2` 라이브러리 사용법 및 시각화 기법 이해
 * [Welcome to Data Science in R - Rachael Tatman](https://www.kaggle.com/rtatman/welcome-to-data-science-in-r)
   * `modelr` 라이브러리를 활용한 머신러닝, 의사결정트리 이해
+  
+
+**Kaggle 우승 솔루션**
+* [Winning solutions of kaggle competitions](https://www.kaggle.com/code/sudalairajkumar/winning-solutions-of-kaggle-competitions)
+
 
 ### 강의 & 강연
 
@@ -474,10 +566,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 
 * [테디노트](https://teddylee777.github.io/)
   * 데이터분석, 머신러닝, 딥러닝 블로그
-
 * [생새우초밥집](https://freshrimpsushi.tistory.com/)
   * 통계 관련 지식이 잘 정리되어 있는 블로그
-  
 * [데이터 사이언스 스쿨](https://datascienceschool.net/)
   * 데이터 분석, 머신러닝, 딥러닝 학습자라면 꼭 한번 씩은 가본 웹사이트. 노트북 정리가 잘 되어 있다. 운영자님께서 수학 강의도 하신다.
 * [공돌이의 수학정리노트](https://angeloyeo.github.io/2020/01/09/Bayes_rule.html)
@@ -535,6 +625,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 무려 840개의 오픈소스 ML 프로젝트 깃헙을 모아놓은 저장소
 * [CaptchaCracker](https://github.com/WooilJeong/CaptchaCracker)
   * 보안문자 이미지 인식을 위한 딥 러닝 모델 생성 기능과 적용 기능을 제공하는 Python Module
+* [Pretrained Language Models For Korean - kiyoungkim1](https://github.com/kiyoungkim1/LMkor)
+  * Pretrained 자연어처리 모델을 공유한 github
+* [LangChain Tutorial](https://github.com/gkamradt/langchain-tutorials)
+  * LangChain 튜토리얼. 다양한 예제와 쿡북(cookbook), Use Case 등이 수록되어 있음.
+* [LangChain 한국어 튜토리얼](https://github.com/teddylee777/langchain-kr)
+  * LangChain 쿡북을 한국어로 번역한 한국어 튜토리얼.
+* [OpenAI API 한국어 튜토리얼](https://github.com/teddylee777/openai-api-kr)
+  * OpenAI Cookbook 을 한국어로 번역하고 한국어 예제를 추가한 튜토리얼.
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
+  *  대규모 언어 모델, 특히 ChatGPT와 관련된 엄선된 논문 목록.
 
 **강의(Lecture)**
 * [김성훈 교수님 - Deep Learning Zero To All](https://github.com/hunkim/DeepLearningZeroToAll)
@@ -581,12 +681,14 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
 * [Gan ZOO](https://github.com/hindupuravinash/the-gan-zoo)
   * GAN에 관한 사실상 거의 모든 논문이 정리된 깃헙
   
+
 **논문**
 * [terryum - awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
   - 딥러닝 관련 논문을 매우 잘 정리해 놓은 깃헙
 * [Papers You Must Read (PYMR)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
   - 고려대 Data Science & Business Analytics Lab에서 공유한 머신러닝을 학습을 위하여 필독해야할 논문 리스트 (노션)
   
+
 **서적 예제**
 * [파이썬 코딩의 기술 (Effective Python) - 길벗출판사](https://github.com/gilbutITbook/006764)
   - 파이썬을 배우기 위한 서적 연습문제 및 예제 소스코드 제공
@@ -610,6 +712,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 위키북스 - 데이콘 경진대회 1등 솔루션 서적의 예제 코드 깃헙.
 
 ## 웹사이트 (Web Sites)
+* [Toolify AI](https://www.toolify.ai/ko/Best-trending-AI-Tools)
+  - 인기있는 AI 웹사이트 및 도구의 순위를 알려주고, 각 도구(웹사이트) 별로 간단 설명과 사용자 수 등등의 정보를 제공합니다.
+* [GPTers 그룹](https://www.gpters.org/home)
+  - ChatGPT 활용 커뮤니티. ChatGPT를 활용 및 확장한 여러 소그룹으로 이루어져 있고, 각각의 소그룹에서 ChatGPT 를 활용한 유용한 정보를 공유합니다.
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
   - 머신러닝 용어들이 정리되어 있는 구글 developer 사이트.
 * [pandas tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
@@ -643,6 +749,10 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   - 마이크로소프트 Learn. 파이토치 기초, 파이토치를 사용한 이미지/자연어/오디오
 * [PyTorch 튜토리얼 (한글)](https://tutorials.pytorch.kr/)
   - PyTorch 웹사이트에서 제공하는 공식 튜토리얼의 한글 번역 버전
+* [PyTorch 자연어 처리 입문 - 김기현님](https://kh-kim.gitbooks.io/pytorch-natural-language-understanding/content/)
+  - 김기현님께서 공유해주신 PyTorch를 활용한 자연어 처리 입문 독스(Docs)
+* [Machine Learning Career](https://www.scaler.com/blog/machine-learning-career/)
+  - Machine Learning: 종합 가이드. 역동적인 ML 분야에서 탁월한 성과를 거두기 위한 경로, 기술, 업계 통찰력 및 팁을 알아보세요.
 
 ## 위키독스 (Wiki Docs)
 
@@ -666,8 +776,16 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 하둡, 하이브에 대한 내용 수록
 * [빅데이터 - 스칼라(scala), 스파크(spark)로 시작하기](https://wikidocs.net/book/2350)
   * 스칼라, 스파크를 배우고 싶다면
+* [생성 AI 활용기](https://wikidocs.net/book/9451) - 전뇌해커
+  * 생성 AI를 활요한 다양한 예제 수록
+
+* [이미지 생성 AI 활용](https://wikidocs.net/book/12852) - 전뇌해커
+  * 이미지, 그림 그리기 등 생성 AI 를 활용한 이미지 생성/활용 내용 수록
+
 
 ## 유튜브 채널 (YouTube Channel)
+* [3Blue1Brown 한국어 채널](https://www.youtube.com/@3Blue1BrownKR)
+  * 인공지능을 위한 수학을 쉽게 설명해주는 3Blue1Brown 채널의 한국어 버전. 정말 감사합니다!!
 * [SKPlanet TAcademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw)
   * 인공지능 강의 뿐만아니라 테크 분야의 다양한 분야의 정말 좋은 강의를 무료로 제공합니다.
 * [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
@@ -762,6 +880,7 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 하이퍼밴드 및 베이지안-하이퍼밴드 기반 파라미터 최적화 라이브러리
 
 ## 오픈데이터
+* [문화 빅데이터 플랫폼](https://www.bigdata-culture.kr/bigdata/user/main.do)
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
   * 공공 데이터를 Pandas DataFrame으로 조회할 수 있는 Python SDK
 * [통합 데이터 지도](https://www.bigdata-map.kr)
@@ -789,8 +908,8 @@ Video 강좌는 제가 개인적으로 생각하는 순차적 학습 단계 입�
   * 캐글에서 빅데이터 분석기사 실기 문제를 모의고사 형태로 풀어볼 수 있음
 
 ## 기타
-* [Kaggle 도커에 기반한 딥러닝 서버 구축(한글 자연어처리 패키지 추가)](https://github.com/teddylee777/docker-kaggle-ko)
-* [docker-kaggle-ko 도커 허브](https://hub.docker.com/repository/docker/teddylee777/docker-kaggle-ko)
+* [Kaggle 도커에 기반한 딥러닝 서버 구축(한글 자연어처리 패키지 추가)](https://teddylee777.github.io/linux/docker-kaggle-ko2/)
+* [파이썬(Python) 기반의 데이터 분석 / 머신러닝 / 딥러닝 도커(docker)](https://hub.docker.com/repository/docker/teddylee777/deepko)
 * [Udacity: Dog Breed Image Classifier in Pytorch](https://github.com/teddylee777/machine-learning)
 * [TED: Big Data playlist (한국어 자막 지원)](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
   * 데이터 이해하기 (통계, 시각화) 
